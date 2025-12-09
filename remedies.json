@@ -1,0 +1,17 @@
+remedy_data = {
+    "Pepper__bell___Bacterial_spot": "Remedy: Prune and destroy infected leaves. Use copper-based bactericides.",
+    "Pepper__bell___healthy": "No remedy needed! Your plant is healthy and thriving.",
+    "Potato___Early_blight": "Remedy: Apply fungicides containing chlorothalonil or mancozeb. Ensure proper watering.",
+    "Potato___Late_blight": "Remedy: Immediately destroy all infected plant material. Apply systemic fungicides.",
+    "Tomato___Bacterial_spot": "Remedy: Use disease-free seeds and seedlings. Apply fixed copper sprays.",
+    "Tomato___Early_blight": "Remedy: Apply fungicides containing chlorothalonil. Avoid overhead watering.",
+    "Tomato___Late_blight": "Remedy: Destroy infected plants immediately. Use broad-spectrum fungicides.",
+    "Tomato___Leaf_Mold": "Remedy: Improve air circulation (pruning). Apply chlorothalonil or copper fungicides.",
+    "Tomato___Septoria_leaf_spot": "Remedy: Remove and destroy lower infected leaves. Apply copper-based fungicides.",
+    "Tomato___Spider_mites Two-spotted_mite": "Remedy: Spray with insecticidal soap or horticultural oil. Use a strong jet of water to dislodge mites.",
+    "Tomato___Target_Spot": "Remedy: Apply fungicides like azoxystrobin. Practice crop rotation.",
+    "Tomato___Tomato_mosaic_virus": "Remedy: Remove and destroy infected plants immediately. Sanitize tools and hands frequently.",
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": "Remedy: Control whiteflies with insecticides or reflective mulches. Remove infected plants.",
+    "Tomato___healthy": "No remedy needed! Your plant is healthy and thriving.",
+    "Tomato___Blight": "Remedy: Apply broad-spectrum fungicides. Ensure proper soil drainage and avoid wetting foliage."
+}
